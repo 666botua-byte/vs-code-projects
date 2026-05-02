@@ -1,0 +1,4 @@
+*.o
+place_app
+build/
+
